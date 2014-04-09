@@ -8,7 +8,7 @@
 - [ ] Review PR [3231](https://github.com/edx/edx-platform/pull/3231).
 - [ ] Review PR [3217](https://github.com/edx/edx-platform/pull/3217).
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
-- [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to guys.
+- [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
 - [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
 - [ ] Learn about the scrum master role.
 

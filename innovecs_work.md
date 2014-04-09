@@ -2,4 +2,4 @@
 - [ ] Learn about the scrum master role
 - [ ] Find notes from previous internal retrospective (from Wednesday, 26th of March)
 - [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective
-- [x] Create a TODO list where all tasks related to work will be kept so that I do not forget about them
+- [X] Create a TODO list where all tasks related to work will be kept so that I do not forget about them

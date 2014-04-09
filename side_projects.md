@@ -1,7 +1,5 @@
 ## In progress ##
 
-- [ ] 
-
 ## To be done ##
 
 - [ ] Create a technical specification document for Node.js YouTube downloader. Use [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point for code base.

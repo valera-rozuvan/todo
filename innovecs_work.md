@@ -10,6 +10,7 @@
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
 - [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
+- [ ] Figure out why [this](https://gist.github.com/valera-rozuvan/10283848) error happens in branch `valera/l52a` ([PR 3275](https://github.com/edx/edx-platform/pull/3275)).
 - [ ] Learn about the scrum master role.
 
 ## Done ##

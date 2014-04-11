@@ -1,10 +1,10 @@
 ## In progress ##
 
 - [ ] Review PR [3151](https://github.com/edx/edx-platform/pull/3151).
+- [ ] Install edx-platform production on Mac without Vagrant.
 
 ## To be done ##
 
-- [ ] Install edx-platform production on Mac without Vagrant.
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] ~~Review PR [3217](https://github.com/edx/edx-platform/pull/3217).~~
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).

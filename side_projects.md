@@ -1,6 +1,6 @@
 ## In progress ##
 
-- [X] Add progress-loading type initialization to [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
+- [ ] Add progress-loading type initialization to [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 
 ## To be done ##
 

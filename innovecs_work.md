@@ -1,6 +1,5 @@
 ## In progress ##
 
-- [ ] Review PR [3151](https://github.com/edx/edx-platform/pull/3151).
 - [ ] Install edx-platform production on Mac without Vagrant.
 
 ## To be done ##
@@ -15,5 +14,6 @@
 
 ## Done ##
 
+- [X] Review PR [3151](https://github.com/edx/edx-platform/pull/3151).
 - [X] Review PR [3231](https://github.com/edx/edx-platform/pull/3231).
 - [X] Create a TODO list where all tasks related to work will be kept so that I do not forget about them.

@@ -1,6 +1,6 @@
 ## In progress ##
 
-- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662).
+- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Review PR [3231](https://github.com/edx/edx-platform/pull/3231).
 - [ ] Install edx-platform production on Mac without Vagrant.
 

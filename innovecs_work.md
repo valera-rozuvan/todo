@@ -7,7 +7,7 @@
 ## To be done ##
 
 - [ ] Review PR [3151](https://github.com/edx/edx-platform/pull/3151).
-- [ ] Review PR [3217](https://github.com/edx/edx-platform/pull/3217).
+- [ ] ~~Review PR [3217](https://github.com/edx/edx-platform/pull/3217).~~
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
 - [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.

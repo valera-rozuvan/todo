@@ -1,7 +1,5 @@
 ## In progress ##
 
-- [ ] Install edx-platform production on Mac without Vagrant.
-
 ## To be done ##
 
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
@@ -11,6 +9,7 @@
 - [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
 - [ ] Figure out why [this](https://gist.github.com/valera-rozuvan/10283848) error happens in branch `valera/l52a` ([PR 3275](https://github.com/edx/edx-platform/pull/3275)).
 - [ ] Learn about the scrum master role.
+- [ ] ~~Install edx-platform production on Mac without Vagrant.~~
 
 ## Done ##
 

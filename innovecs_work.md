@@ -2,6 +2,7 @@
 
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
+- [ ] Install [Vagrant edX production stack](https://github.com/edx/configuration/wiki/edx-Production-stack--installation-using-Vagrant-Virtualbox) on Mac Mini.
 
 ## To be done ##
 

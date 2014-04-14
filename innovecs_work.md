@@ -1,11 +1,10 @@
 ## In progress ##
 
-- [ ] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
+- [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 
 ## To be done ##
 
-- [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] ~~Review PR [3217](https://github.com/edx/edx-platform/pull/3217).~~
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
@@ -15,6 +14,7 @@
 
 ## Done ##
 
+- [X] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
 - [X] Answer all comments for PR [3318](https://github.com/edx/edx-platform/pull/3318) and merge it.
 - [X] Review PR [3151](https://github.com/edx/edx-platform/pull/3151).
 - [X] Review PR [3231](https://github.com/edx/edx-platform/pull/3231).

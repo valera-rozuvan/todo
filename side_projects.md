@@ -1,5 +1,6 @@
 ## In progress ##
 
+- [ ] Create code design diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [ ] Enable `Previous` and `Next` buttons on [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 
 ## To be done ##

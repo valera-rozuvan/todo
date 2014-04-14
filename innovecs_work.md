@@ -1,5 +1,6 @@
 ## In progress ##
 
+- [ ] Answer all comments for PR [3318](https://github.com/edx/edx-platform/pull/3318) and merge it.
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 
 ## To be done ##

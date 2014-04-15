@@ -1,6 +1,5 @@
 ## In progress ##
 
-- [ ] Create code design diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [ ] Enable `Previous` and `Next` buttons on [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 
 ## To be done ##
@@ -12,5 +11,6 @@
 
 ## Done ##
 
+- [X] Create code design diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [X] Create image mock-ups for a photoblog.
 - [X] Add progress-loading type initialization to [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).

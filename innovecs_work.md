@@ -1,11 +1,13 @@
 ## In progress ##
 
-- [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
-- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
+- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Install [Vagrant edX production stack](https://github.com/edx/configuration/wiki/edx-Production-stack--installation-using-Vagrant-Virtualbox) on Mac Mini.
 
 ## To be done ##
 
+- [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
+- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
+- [ ] Ask Dima about fate of BBT.
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
 - [ ] Figure out why [this](https://gist.github.com/valera-rozuvan/10283848) error happens in branch `valera/l52a` ([PR 3275](https://github.com/edx/edx-platform/pull/3275)).

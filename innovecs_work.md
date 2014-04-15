@@ -5,7 +5,7 @@
 
 ## To be done ##
 
-- [ ] Make headles Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
+- [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Ask Dima about fate of BBT.

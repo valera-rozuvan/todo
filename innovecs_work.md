@@ -1,10 +1,12 @@
 ## In progress ##
 
-- [ ] Merge PR [3354](https://github.com/edx/edx-platform/pull/3354) once Jenkins passes all tests.
-- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
+- [ ] Write Jasmine tests for PR [3354](https://github.com/edx/edx-platform/pull/3354).
 
 ## To be done ##
 
+- [ ] Update PR [3356](https://github.com/edx/edx-platform/pull/3356) with Jasmine tests.
+- [ ] Merge PR [3354](https://github.com/edx/edx-platform/pull/3354) once Jenkins passes all tests.
+- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).

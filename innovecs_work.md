@@ -1,11 +1,7 @@
 ## In progress ##
 
-- [ ] Write Jasmine tests for PR [3354](https://github.com/edx/edx-platform/pull/3354).
-
 ## To be done ##
 
-- [ ] Update PR [3356](https://github.com/edx/edx-platform/pull/3356) with Jasmine tests.
-- [ ] Merge PR [3354](https://github.com/edx/edx-platform/pull/3354) once Jenkins passes all tests.
 - [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
@@ -20,6 +16,9 @@
 
 ## Done ##
 
+- [X] Update PR [3356](https://github.com/edx/edx-platform/pull/3356) with Jasmine tests.
+- [X] Merge PR [3354](https://github.com/edx/edx-platform/pull/3354) once Jenkins passes all tests.
+- [X] Write Jasmine tests for PR [3354](https://github.com/edx/edx-platform/pull/3354).
 - [X] Install [Vagrant edX production stack](https://github.com/edx/configuration/wiki/edx-Production-stack--installation-using-Vagrant-Virtualbox) on Mac Mini.
 - [X] Create tickets on some kind of tracker about internal problems discussed on internal retrospective.
 - [X] Answer all comments for PR [3318](https://github.com/edx/edx-platform/pull/3318) and merge it.

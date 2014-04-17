@@ -1,7 +1,5 @@
 ## In progress ##
 
-- [ ] Create module hierarchy diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
-
 ## To be done ##
 
 - [ ] Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).
@@ -13,6 +11,7 @@
 
 ## Done ##
 
+- [X] Create module hierarchy diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [X] Create code design diagram for [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [X] Create image mock-ups for a photoblog.
 - [X] Add progress-loading type initialization to [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).

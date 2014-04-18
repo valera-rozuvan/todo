@@ -1,9 +1,8 @@
 ## In progress ##
 
-- [ ] Review PR [3369](https://github.com/edx/edx-platform/pull/3369).
-
 ## To be done ##
 
+- [ ] Review PR [3369](https://github.com/edx/edx-platform/pull/3369).
 - [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).

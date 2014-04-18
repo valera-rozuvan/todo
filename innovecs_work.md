@@ -1,9 +1,10 @@
 ## In progress ##
 
-- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
+- [ ] Create document with questions for today's (18.04.2014) meeting with Cale. Share with team.
 
 ## To be done ##
 
+- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Review PR [3369](https://github.com/edx/edx-platform/pull/3369).
 - [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.

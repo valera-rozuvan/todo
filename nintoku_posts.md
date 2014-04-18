@@ -1,6 +1,5 @@
 ## In progress ##
 
-- [ ] Publish writing from today (17.04.2014) - `musings`, and `cool_commands` files.
 
 ## To be done ##
 
@@ -8,3 +7,5 @@
 - [ ] Demonstrate how you can run JavaScript Jasmine tests in [edx-platform](https://github.com/edx/edx-platform) without a dev environment.
 
 ## Done ##
+
+- [X] Publish writing from today (17.04.2014) - `musings`, and `cool_commands` files.

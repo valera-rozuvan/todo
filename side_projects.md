@@ -1,9 +1,8 @@
 ## In progress ##
 
-- [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).
-
 ## To be done ##
 
+- [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).
 - [ ] Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).
 - [ ] Enable `Previous` and `Next` buttons on [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [ ] Fix bug on [valera.rozuvan.net](http://valera.rozuvan.net) related to `console.log()` (IE).

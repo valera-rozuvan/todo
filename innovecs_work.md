@@ -1,13 +1,13 @@
 ## In progress ##
 
-- [ ] Review PR [3369](https://github.com/edx/edx-platform/pull/3369).
+- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 
 ## To be done ##
 
+- [ ] Review PR [3369](https://github.com/edx/edx-platform/pull/3369).
 - [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
-- [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Ask Dima about fate of BBT.
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.

@@ -1,7 +1,5 @@
 ## In progress ##
 
-- [ ] Create document with questions for today's (18.04.2014) meeting with Cale. Share with team.
-
 ## To be done ##
 
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
@@ -19,6 +17,7 @@
 
 ## Done ##
 
+- [X] Create document with questions for today's (18.04.2014) meeting with Cale. Share with team.
 - [X] Update PR [3356](https://github.com/edx/edx-platform/pull/3356) with Jasmine tests.
 - [X] Merge PR [3354](https://github.com/edx/edx-platform/pull/3354) once Jenkins passes all tests.
 - [X] Write Jasmine tests for PR [3354](https://github.com/edx/edx-platform/pull/3354).

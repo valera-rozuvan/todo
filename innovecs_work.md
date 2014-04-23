@@ -1,6 +1,5 @@
 ## In progress ##
 
-- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality). PR for it is at [3350](https://github.com/edx/edx-platform/pull/3350).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Figure out why [this](https://gist.github.com/valera-rozuvan/10283848) error happens in branch `valera/l52a` ([PR 3275](https://github.com/edx/edx-platform/pull/3275)).
 
@@ -13,6 +12,7 @@
 
 ## Done ##
 
+- [X] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality). PR for it is at [3350](https://github.com/edx/edx-platform/pull/3350).
 - [X] Update [2014-04-23](https://edx-wiki.atlassian.net/wiki/pages/viewpage.action?spaceKey=ENG&title=Release+Page%3A+2014-04-23) release notes.
 - [X] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [X] Send internal retrospective notes from today (Wednesday, 9th of April) to team.

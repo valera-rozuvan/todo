@@ -1,9 +1,5 @@
 ## In progress ##
 
-- [ ] Remove link to old `freewebs` site from [valera.rozuvan.net](http://valera.rozuvan.net).
-- [ ] Add link to [Zeme Fotografia](http://valera-rozuvan.github.io/zeme-fotografia) to [valera.rozuvan.net](http://valera.rozuvan.net).
-- [ ] Fix bug on [valera.rozuvan.net](http://valera.rozuvan.net) related to `console.log()` (IE).
-
 ## To be done ##
 
 - [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).
@@ -13,6 +9,9 @@
 
 ## Done ##
 
+- [X] Remove link to old `freewebs` site from [valera.rozuvan.net](http://valera.rozuvan.net).
+- [X] Add link to [Zeme Fotografia](http://valera-rozuvan.github.io/zeme-fotografia) to [valera.rozuvan.net](http://valera.rozuvan.net).
+- [X] Fix bug on [valera.rozuvan.net](http://valera.rozuvan.net) related to `console.log()` (IE).
 - [X] Enable `Previous` and `Next` buttons on [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 - [X] Design code architecture for [heiduc](https://github.com/valera-rozuvan/heiduc).
 - [X] Create a technical specification document for Node.js YouTube downloader. Use [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point for code base.

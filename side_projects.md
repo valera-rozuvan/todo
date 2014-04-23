@@ -1,10 +1,13 @@
 ## In progress ##
 
+- [ ] Remove link to old `freewebs` site from [valera.rozuvan.net](http://valera.rozuvan.net).
+- [ ] Add link to [Zeme Fotografia](http://valera-rozuvan.github.io/zeme-fotografia) to [valera.rozuvan.net](http://valera.rozuvan.net).
+- [ ] Fix bug on [valera.rozuvan.net](http://valera.rozuvan.net) related to `console.log()` (IE).
+
 ## To be done ##
 
 - [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).
 - [ ] Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).
-- [ ] Fix bug on [valera.rozuvan.net](http://valera.rozuvan.net) related to `console.log()` (IE).
 - [ ] Define goals for version 1.0 of [javascript-physics](https://github.com/valera-rozuvan/javascript-physics).
 - [ ] Create a technical specification document for Node.js app that will allow to better work with GitHub based todo files.
 

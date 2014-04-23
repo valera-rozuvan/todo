@@ -6,7 +6,7 @@
 ## To be done ##
 
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
-- [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
+- [ ] ~~Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).~~
 - [ ] ~~Review PR [3217](https://github.com/edx/edx-platform/pull/3217).~~
 - [ ] ~~Install edx-platform production on Mac without Vagrant.~~
 

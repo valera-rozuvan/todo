@@ -1,11 +1,11 @@
 ## In progress ##
 
+- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality). PR for it is at [3350](https://github.com/edx/edx-platform/pull/3350).
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).
 - [ ] Figure out why [this](https://gist.github.com/valera-rozuvan/10283848) error happens in branch `valera/l52a` ([PR 3275](https://github.com/edx/edx-platform/pull/3275)).
 
 ## To be done ##
 
-- [ ] Investigate failing tests [BLD-1013](https://edx-wiki.atlassian.net/browse/BLD-1013) (`start-time`, and `end-time` functionality).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Investigate [BLD-994](https://edx-wiki.atlassian.net/browse/BLD-994).
 - [ ] ~~Review PR [3217](https://github.com/edx/edx-platform/pull/3217).~~

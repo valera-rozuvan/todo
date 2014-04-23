@@ -1,5 +1,6 @@
 ## In progress ##
 
+- [ ] Update 2014-04-23 release notes.
 - [ ] Find notes from previous internal retrospective (Wednesday, 26th of March).
 - [ ] Send internal retrospective notes from today (Wednesday, 9th of March) to team.
 - [ ] Jira issue [BLD-662](https://edx-wiki.atlassian.net/browse/BLD-662). PR for it is at [3275](https://github.com/edx/edx-platform/pull/3275).

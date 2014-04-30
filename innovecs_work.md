@@ -1,5 +1,7 @@
 ## In progress ##
 
+- [ ] [Video player grading](https://github.com/edx/edx-platform/compare/anton;video-player-grading).
+
 ## To be done ##
 
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.

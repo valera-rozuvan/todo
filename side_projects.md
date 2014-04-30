@@ -1,7 +1,5 @@
 ## In progress ##
 
-- [ ] [Video player grading](https://github.com/edx/edx-platform/compare/anton;video-player-grading).
-
 ## To be done ##
 
 - [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).

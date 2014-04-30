@@ -9,4 +9,4 @@
 
 ## Done ##
 
-- [X] Configure [edx-platform](https://github.com/edx/edx-platform) JavaScript code base to use JSHint linter. [First part](https://github.com/edx/edx-platform/pull/3272) is to introduce a `.jshintrc` file.
+- [x] Configure [edx-platform](https://github.com/edx/edx-platform) JavaScript code base to use JSHint linter. [First part](https://github.com/edx/edx-platform/pull/3272) is to introduce a `.jshintrc` file.

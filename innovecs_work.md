@@ -1,6 +1,8 @@
 ## In progress ##
 
 - [ ] [Video player grading](https://github.com/edx/edx-platform/compare/anton;video-player-grading).
+- [ ] Answering comments on [PR 3213](https://github.com/edx/edx-platform/pull/3213#issuecomment-41065139).
+- [ ] Investigating [BLD-1014](https://edx-wiki.atlassian.net/browse/BLD-1014).
 
 ## To be done ##
 

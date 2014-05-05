@@ -2,10 +2,10 @@
 
 - [ ] [Video player grading](https://github.com/edx/edx-platform/compare/anton;video-player-grading).
 - [ ] Answering comments on [PR 3213](https://github.com/edx/edx-platform/pull/3213#issuecomment-41065139).
-- [ ] Investigating [BLD-1014](https://edx-wiki.atlassian.net/browse/BLD-1014).
 
 ## To be done ##
 
+- [ ] Investigating [BLD-1014](https://edx-wiki.atlassian.net/browse/BLD-1014).
 - [ ] Make headless Mac mini (with Vagrant fullstack) go to sleep mode after 10 minutes.
 - [ ] Follow up on issue [3446](https://github.com/edx/edx-platform/issues/3446).
 - [ ] ~~Test bug [BLD-1017](https://edx-wiki.atlassian.net/browse/BLD-1017)~~.

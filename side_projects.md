@@ -21,5 +21,5 @@
 
 # Will not do
 
-- [ ] Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).
-- [ ] Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).
+- [ ] ~~Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).~~
+- [ ] ~~Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).~~

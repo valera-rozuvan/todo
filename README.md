@@ -1,4 +1,4 @@
-todo
-====
+# TODO
 
-A repository full of todo lists ^_^
+Public TODO lists.
+

@@ -4,6 +4,7 @@
 
 ## To be done
 
+- [ ] Update demo Git repo with D3.js examples - new version of library and several concrete examples.
 - [ ] Split up this TODO list. There should be a TODO list for each project that I am working on.
 - [ ] Define goals for version 1.0 of [javascript-n-body-problem](https://github.com/valera-rozuvan/javascript-n-body-problem).
 - [ ] Create a technical specification document for Node.js app that will allow to better work with GitHub based todo files.

@@ -1,11 +1,11 @@
 # Mathematics TODO
 
-# In progress
+## In progress
 
-# To be done
+## To be done
 
 - [ ] Prioritize books to read on number theory. Make a list, publish to blog.
 
-# Done
+## Done
 
-# Will not do
+## Will not do

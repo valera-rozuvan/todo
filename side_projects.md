@@ -1,11 +1,13 @@
-# In progress
+# Side Projects TODO
 
-# To be done
+## In progress
+
+## To be done
 
 - [ ] Define goals for version 1.0 of [javascript-n-body-problem](https://github.com/valera-rozuvan/javascript-n-body-problem).
 - [ ] Create a technical specification document for Node.js app that will allow to better work with GitHub based todo files.
 
-# Done
+## Done
 
 - [X] Add Google analytics to [Zeme Fotografia](http://valera-rozuvan.github.io/zeme-fotografia).
 - [X] Remove link to old `freewebs` site from [valera.rozuvan.net](http://valera.rozuvan.net).
@@ -19,7 +21,7 @@
 - [X] Create image mock-ups for a photoblog.
 - [X] Add progress-loading type initialization to [zeme-fotografia](https://github.com/valera-rozuvan/zeme-fotografia).
 
-# Will not do
+## Will not do
 
 - [ ] ~~Using [node-projects](https://github.com/valera-rozuvan/node-projects) 03-06 as the starting point, implement a working version of [heiduc](https://github.com/valera-rozuvan/heiduc).~~
 - [ ] ~~Create a proposal about Online Education for [Brain Basket](http://brainbasketfoundation.org).~~
